@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Po ustawieniu domeny uruchom publish_seo.py, aby dodać adres mapy witryny.

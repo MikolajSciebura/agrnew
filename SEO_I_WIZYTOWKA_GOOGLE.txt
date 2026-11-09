@@ -1,0 +1,24 @@
+STRATEGIA SEO – POKOJE GOŚCINNE KAMYK (V53)
+
+LOKALIZACJA RZECZYWISTA: ul. Stefana Żeromskiego 87, 42-125 Kamyk. Nie wpisuj fałszywego adresu w Kłobucku lub Częstochowie.
+
+MAPA FRAZ / STRON:
+/ -> noclegi Kłobuck i okolice Częstochowy, pokoje gościnne Kamyk
+/noclegi-klobuck.html -> noclegi Kłobuck, pokoje Kłobuck i okolice
+/noclegi-czestochowa.html -> noclegi Częstochowa i okolice, noclegi pod Częstochową
+/noclegi-pracownicze-kamyk.html -> noclegi pracownicze Kłobuck, kwatery pracownicze Częstochowa, noclegi dla firm
+/noclegi-dla-pielgrzymow.html -> noclegi dla pielgrzymów blisko Częstochowy, Jasna Góra
+
+JAK PUBLIKOWAĆ:
+1. Ustal domenę. W głównym katalogu uruchom python publish_seo.py https://DOMENA.PL
+2. Wgraj zawartość folderu na hosting (również .htaccess, jeśli Apache/LiteSpeed).
+3. Sprawdź w przeglądarce wersję mobilną, linki tel:, WhatsApp i przyciski galerii.
+4. Dodaj sitemap.xml do Search Console, sprawdź indeksowanie wszystkich 5 podstron.
+5. Uruchom PageSpeed Insights dla strony głównej i podstron; sprawdź LCP, CLS, INP na prawdziwym hostingu.
+6. W Google Business Profile podaj rzeczywisty adres i nazwę używaną w świecie rzeczywistym, odpowiednią kategorię, telefon i adres strony. Uzupełnij prawdziwe zdjęcia, usługi, udogodnienia. Proś o autentyczne opinie i odpowiadaj na nie.
+7. Gdy domena jest znana, połącz ją z wizytówką; upewnij się, że dane NAP są spójne.
+8. Po 4-8 tygodniach porównaj zapytania, wyświetlenia, kliknięcia i CTR w Search Console; bez gwarancji rankingu.
+
+FAKTY DO POTWIERDZENIA Z WŁAŚCICIELKĄ:
+Liczba pokoi 7 / miejsc 19, 2-4 osoby na pokój, łazienka w każdym pokoju, klimatyzacja wybrane pokoje, parking dla busów, kuchnia, pralka, nr 601 461 707, odległości około 6/15 km, warunki i dokument sprzedaży.
+Wizytówka i SEO strony to różne systemy: lokalne wyniki Google uwzględniają trafność, odległość i rozpoznawalność. Nie można obiecać TOP3 na wszystkie zapytania.

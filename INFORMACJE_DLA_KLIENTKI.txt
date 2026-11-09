@@ -1,0 +1,22 @@
+POKOJE GOŚCINNE – WERSJA DO PREZENTACJI | 09.11.2026
+
+Prezentacja strony z SEO nastawionym na Kłobuck, okolice Częstochowy, noclegi pracownicze i agroturystykę.
+
+POTWIERDZONE W ROZMOWIE:
+- 9 pokoi 2-, 3- i 4-osobowych.
+- Wspólna kuchnia dostępna dla gości.
+- Pokoje w domu na terenie gospodarstwa rolnego właścicielki.
+- Adres: Żeromskiego 87, 42-125 Kamyk.
+
+DO POTWIERDZENIA PRZED PUBLIKACJĄ:
+- Czy wszystkie pokoje mają własne łazienki, TV i czy niektóre mają klimatyzację.
+- Czy parking, Wi-Fi i pralka oraz możliwość parkowania busów są dostępne w opisanym zakresie.
+- Czy telefon 601 461 707 jest aktualny, i czy WhatsApp jest obsługiwany.
+- Forma rozliczeń, ceny, ewentualne ograniczenia pobytów.
+- Faktyczna liczba łóżek / miejsc noclegowych (celowo nie jest deklarowana).
+- Formalny status obiektu i wpis do ewidencji prowadzonej przez gminę.
+- Ostateczna domena i hosting.
+
+UWAGA: To gotowa wersja DO PREZENTACJI, nie wdrożenie w Google. Po zakupie domeny uruchomić publish_seo.py z prawdziwym adresem HTTPS w kopii przeznaczonej do publikacji. Następnie przetestować stronę na docelowym hostingu i zgłosić sitemap w Search Console.
+
+Nie zmieniać nazwy i kategorii wizytówki Google bez odrębnej weryfikacji.
